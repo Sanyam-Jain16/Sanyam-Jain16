@@ -1,5 +1,7 @@
 👋 Hi, I’m @sanyamjain
+
 👀 I’m interested in - Software engineering and full stack roles
+
 📫 How to reach me - sanyamjain334@gmail.com
 
 <!--
