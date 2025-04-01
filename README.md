@@ -1,4 +1,6 @@
-## Hi there 👋
+👋 Hi, I’m @sanyamjain
+👀 I’m interested in - Software engineering and full stack roles
+📫 How to reach me - sanyamjain334@gmail.com
 
 <!--
 **Sanyam-Jain16/Sanyam-Jain16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
